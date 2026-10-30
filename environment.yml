@@ -1,0 +1,12 @@
+name: pyfoomb-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pyfoomb=2.17.7
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - jupyter
+  - ipykernel
