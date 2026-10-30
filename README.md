@@ -1,4 +1,4 @@
-# Parameter estimation of a light–temperature growth model for microalgae
+# Parameter estimation of a microalgae growth model that predicts biomass concentration at steady state for acclimated cultures as a function of light intensity and temperature
 
 Jupyter notebook that calibrates a mechanistic model of microalgal growth in a continuous culture, using biomass measurements taken at different light intensities and temperatures. The model combines a Haldane-type light response, a cardinal temperature model with an attenuation term for acclimation, and a Lambert–Beer light-attenuation law whose absorption coefficient depends on pigment content. Parameters are estimated with [pyFOOMB](https://github.com/MicroPhen/pyFOOMB).
 
